@@ -150,9 +150,7 @@ The JWT secret is configured in `application.properties`. For production, use a 
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -161,9 +159,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Bootstrap for the responsive UI components
 - All contributors and users of this project
 
-## 📞 Support
-
-If you have any questions or need help, please open an issue in the GitHub repository.
 
 ---
 
